@@ -1,0 +1,5 @@
+swibots
+python-dotenv
+aiohttp
+pymongo
+telegraph
